@@ -79,7 +79,7 @@ The workflow demonstrated here can be adapted to **any industry** by replacing t
 
 ---
 ## **Future Iterations**
-- **Automated Agents**:
+- **Automated Agents** for RAG real-time analysis:
   - Monitor for new survey responses (e.g., via file watchers or webhooks).
   - Automatically run the Python script to update outputs.
   - Notify stakeholders (e.g., via Slack or email) with a summary of changes.
