@@ -7,6 +7,10 @@ This project demonstrates how **AI** can analyse persona data to generate action
 
 The goal is to showcase how **AI-assisted tools** can scale persona analysis, reduce manual effort, and provide data-driven insights for prioritising features, identifying edge cases, and drafting documents like PRDs.
 
+[![PRD](https://img.shields.io/badge/docs-PRD-3c4f2c)](./docs/PRD_persona-insights.md)
+
+The thinking behind this project is documented in the [PRD](./docs/PRD_persona-insights.md).
+
 ---
 
 ## **Workflow**
